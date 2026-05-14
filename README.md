@@ -1,20 +1,27 @@
-#  I'm Faiza Liaqat 👋
+#   Faiza Liaqat 👋
 
-<!-- 1. Banner (Sir jesa designed background image) -->
-<p align="center">
-  <img src="https://i.ibb.co/5LqN5G8/Faiza-Profile-Banner.png" alt="Faiza's GitHub Banner" width="100%" />
-</p>
-
-<!-- 2. Typing Effect (Slider text) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=9146FF&center=true&width=500&lines=Software+Development+Intern;Drupal+%26+TypeScript+Specialist;Building+digital+experiences..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&width=500&lines=Software+Development+Intern;Drupal+%26+TypeScript+Specialist;Building+Digital+Experiences..." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### **Commit Karen**
-Jab aap ye text paste kar len, to page ke niche scroll karen aur green **"Commit changes..."** button par click kar den.
+### 👩‍💻 About Me
+I am a **Software Development Intern** at **PITB**, working at Arfa Software Technology Park. I love turning designs into functional websites.
 
-Jab tak aap ye code commit nahi karengi, aapko profile par real results nazar nahi ayenge. Phir hum dekh saken gi ke naya design kesa lagta hai.
+- 🚀 **Working on**: PITB web projects using Drupal and Lovable.
+- 🎨 **Interests**: UI/UX Design, Figma, and Digital Fashion.
+- 📍 **Based in**: Lahore, Pakistan.
+
+---
+
+### 🛠️ Tech Stack
+![Drupal](https://img.shields.io/badge/cms-drupal-%230678BE?style=flat-square&logo=drupal&logoColor=white) ![TypeScript](https://img.shields.io/badge/language-typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/tool-github-%23181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizaliaqattts-star&show_icons=true&theme=vincit" alt="Faiza's Stats" />
+</p>
